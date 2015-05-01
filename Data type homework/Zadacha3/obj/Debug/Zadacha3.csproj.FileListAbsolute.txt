@@ -1,0 +1,5 @@
+D:\Нова папка\Homework\Zadacha3\bin\Debug\Zadacha3.exe.config
+D:\Нова папка\Homework\Zadacha3\bin\Debug\Zadacha3.exe
+D:\Нова папка\Homework\Zadacha3\bin\Debug\Zadacha3.pdb
+D:\Нова папка\Homework\Zadacha3\obj\Debug\Zadacha3.exe
+D:\Нова папка\Homework\Zadacha3\obj\Debug\Zadacha3.pdb

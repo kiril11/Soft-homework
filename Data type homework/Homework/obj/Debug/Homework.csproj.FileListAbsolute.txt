@@ -1,0 +1,9 @@
+D:\Нова папка\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Нова папка\Homework\Homework\bin\Debug\Homework.exe
+D:\Нова папка\Homework\Homework\bin\Debug\Homework.pdb
+D:\Нова папка\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+D:\Нова папка\Homework\Homework\obj\Debug\Homework.exe
+D:\Нова папка\Homework\Homework\obj\Debug\Homework.pdb
+D:\3Valhala\Homework\Homework\bin\Debug\Homework.exe.config
+D:\3Valhala\Homework\Homework\obj\Debug\Homework.exe
+D:\3Valhala\Homework\Homework\obj\Debug\Homework.pdb
