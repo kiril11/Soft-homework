@@ -1,0 +1,3 @@
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Conditions Homework\bin\Debug\Conditions Homework.exe.config
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Conditions Homework\obj\Debug\Conditions Homework.exe
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Conditions Homework\obj\Debug\Conditions Homework.pdb

@@ -1,0 +1,5 @@
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Zadacha2-switch variation\bin\Debug\Zadacha2-switch variation.exe.config
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Zadacha2-switch variation\bin\Debug\Zadacha2-switch variation.exe
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Zadacha2-switch variation\bin\Debug\Zadacha2-switch variation.pdb
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Zadacha2-switch variation\obj\Debug\Zadacha2-switch variation.exe
+c:\users\kiril\documents\visual studio 2013\Projects\Conditions Homework\Zadacha2-switch variation\obj\Debug\Zadacha2-switch variation.pdb

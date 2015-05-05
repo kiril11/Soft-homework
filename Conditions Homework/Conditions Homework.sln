@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha 1", "Conditions Homework\Zadacha 1.csproj", "{DFF0C90D-643D-4C24-883B-A15FBE2A99FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha2-if variation", "Zadacha2\Zadacha2-if variation.csproj", "{C8FDAE89-2290-4F72-B89C-DE23196A4400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha2-switch variation", "Zadacha2-switch variation\Zadacha2-switch variation.csproj", "{13EBD4AA-0A5C-4C29-A6FE-EFAC6418D8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha 3- тесте карти", "Zadacha 3\Zadacha 3- тесте карти.csproj", "{BFD0398B-C2F8-4C6B-BBD0-096A9932B700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF0C90D-643D-4C24-883B-A15FBE2A99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF0C90D-643D-4C24-883B-A15FBE2A99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF0C90D-643D-4C24-883B-A15FBE2A99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF0C90D-643D-4C24-883B-A15FBE2A99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FDAE89-2290-4F72-B89C-DE23196A4400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FDAE89-2290-4F72-B89C-DE23196A4400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FDAE89-2290-4F72-B89C-DE23196A4400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FDAE89-2290-4F72-B89C-DE23196A4400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EBD4AA-0A5C-4C29-A6FE-EFAC6418D8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EBD4AA-0A5C-4C29-A6FE-EFAC6418D8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EBD4AA-0A5C-4C29-A6FE-EFAC6418D8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EBD4AA-0A5C-4C29-A6FE-EFAC6418D8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD0398B-C2F8-4C6B-BBD0-096A9932B700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD0398B-C2F8-4C6B-BBD0-096A9932B700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD0398B-C2F8-4C6B-BBD0-096A9932B700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD0398B-C2F8-4C6B-BBD0-096A9932B700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
