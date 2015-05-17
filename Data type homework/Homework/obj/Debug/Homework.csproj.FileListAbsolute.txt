@@ -7,3 +7,6 @@ D:\Нова папка\Homework\Homework\obj\Debug\Homework.pdb
 D:\3Valhala\Homework\Homework\bin\Debug\Homework.exe.config
 D:\3Valhala\Homework\Homework\obj\Debug\Homework.exe
 D:\3Valhala\Homework\Homework\obj\Debug\Homework.pdb
+D:\Soft-homework\Data type homework\Homework\bin\Debug\Homework.exe.config
+D:\Soft-homework\Data type homework\Homework\obj\Debug\Homework.exe
+D:\Soft-homework\Data type homework\Homework\obj\Debug\Homework.pdb

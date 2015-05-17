@@ -6,3 +6,6 @@ D:\Нова папка\Homework\Zadacha7\obj\Debug\Zadacha7.pdb
 D:\3Valhala\Homework\Zadacha7\bin\Debug\Zadacha7.exe.config
 D:\3Valhala\Homework\Zadacha7\obj\Debug\Zadacha7.exe
 D:\3Valhala\Homework\Zadacha7\obj\Debug\Zadacha7.pdb
+D:\Soft-homework\Data type homework\Zadacha7\bin\Debug\Zadacha7.exe.config
+D:\Soft-homework\Data type homework\Zadacha7\obj\Debug\Zadacha7.exe
+D:\Soft-homework\Data type homework\Zadacha7\obj\Debug\Zadacha7.pdb
